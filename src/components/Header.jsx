@@ -4,7 +4,7 @@ import { HashLink } from "react-router-hash-link";
 export default function Header() {
   return (
     <nav>
-      <h1>TechStar.</h1>
+      <h1>DotTechStar</h1>
       <main>
         <HashLink to={"/#home"}>Home</HashLink>
         <Link to={"/contact"}>Contact</Link>
