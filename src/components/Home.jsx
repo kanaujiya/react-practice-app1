@@ -12,7 +12,7 @@ function Home() {
     <>
       <div className="home" id="home">
         <main>
-          <h1>DotTeckyStar</h1>
+          <h1>DotTeckStar</h1>
           <p>Solution to all your problems.</p>
         </main>
       </div>
